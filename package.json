@@ -2,6 +2,7 @@
 	"name": "@ctx-core/polka-types",
 	"version": "1.0.7",
 	"description": "ctx-core polka types",
+	"type": "module",
 	"types": "index.d.ts",
 	"scripts": {},
 	"repository": {
@@ -20,6 +21,9 @@
 	"homepage": "https://github.com/ctx-core/polka-types#readme",
 	"publishConfig": {
 		"access": "public"
+	},
+	"dependencies": {
+		"trouter": "^3.1.0"
 	},
 	"gitHead": "ecded533c5d9946e2d9dafa39dbc95ce3e38ad93"
 }
