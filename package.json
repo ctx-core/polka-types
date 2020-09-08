@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polka-types",
-	"version": "1.0.12",
+	"version": "1.0.13",
 	"description": "ctx-core polka types",
 	"types": "./index.d.ts",
 	"scripts": {},
