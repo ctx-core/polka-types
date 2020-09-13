@@ -3,7 +3,9 @@
 	"version": "1.0.13",
 	"description": "ctx-core polka types",
 	"types": "./index.d.ts",
-	"scripts": {},
+	"scripts": {
+		"exec": "$@"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ctx-core/polka-types/issues"
