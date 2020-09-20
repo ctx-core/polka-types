@@ -24,6 +24,9 @@
 	"dependencies": {
 		"trouter": "^3.1.0"
 	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
 	"publishConfig": {
 		"access": "public"
 	}
