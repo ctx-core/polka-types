@@ -18,13 +18,13 @@
 	"author": "Brian Takita",
 	"types": "./index.d.ts",
 	"scripts": {
-		"exec": "$@"
+		"exec": "$@",
+		"build": "npm run compile"
 	},
 	"dependencies": {
 		"trouter": "^3.1.0"
 	},
 	"publishConfig": {
 		"access": "public"
-	},
-	"gitHead": "b7d41f05646a4c374928f7f51727ec2c1467d0f3"
+	}
 }
