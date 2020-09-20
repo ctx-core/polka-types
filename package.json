@@ -1,33 +1,33 @@
 {
-  "name": "@ctx-core/polka-types",
-  "version": "1.0.15",
-  "description": "ctx-core polka types",
-  "keywords": [
-    "ctx-core",
-    "polka"
-  ],
-  "homepage": "https://github.com/ctx-core/polka-types#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/polka-types/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/polka-types/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "types": "./index.d.ts",
-  "scripts": {
-    "build": "npm run compile",
-    "exec": "$@"
-  },
-  "dependencies": {
-    "trouter": "^3.1.0"
-  },
-  "devDependencies": {
-    "typescript": "^4.0.3"
-  },
-  "publishConfig": {
-    "access": "public"
-  }
+	"name": "@ctx-core/polka-types",
+	"version": "1.0.15",
+	"description": "ctx-core polka types",
+	"keywords": [
+		"ctx-core",
+		"polka"
+	],
+	"homepage": "https://github.com/ctx-core/polka-types#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/polka-types/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/polka-types/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"types": "./index.d.ts",
+	"scripts": {
+		"build": "npm run compile",
+		"exec": "$@"
+	},
+	"dependencies": {
+		"trouter": "^3.1.0"
+	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
