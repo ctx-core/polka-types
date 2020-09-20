@@ -18,8 +18,8 @@
 	"author": "Brian Takita",
 	"types": "./index.d.ts",
 	"scripts": {
-		"exec": "$@",
-		"build": "npm run compile"
+		"build": "npm run compile",
+		"exec": "$@"
 	},
 	"dependencies": {
 		"trouter": "^3.1.0"
