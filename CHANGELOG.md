@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 2.0.0
+
+### Major Changes
+
+- src directory
+
 ## 1.0.19
 
 ### Patch Changes
