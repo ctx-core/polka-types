@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 2.1.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
 ## 2.0.11
 
 ### Patch Changes
