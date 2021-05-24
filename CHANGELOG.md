@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 2.1.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+
 ## 2.1.0
 
 ### Minor Changes
