@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polka-types",
-	"version": "2.2.1",
+	"version": "2.2.2",
 	"description": "ctx-core polka types",
 	"keywords": [
 		"ctx-core",
@@ -18,7 +18,7 @@
 	"author": "Brian Takita",
 	"types": "./dist/index.d.ts",
 	"scripts": {
-		"build": "npm run compile",
+		"build": ":",
 		"exec": "$@"
 	},
 	"dependencies": {

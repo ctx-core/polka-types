@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 2.2.2
+
+### Patch Changes
+
+- fix: npm run build
+
 ## 2.2.1
 
 ### Patch Changes
