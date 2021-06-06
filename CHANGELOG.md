@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 2.2.3
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+
 ## 2.2.2
 
 ### Patch Changes
