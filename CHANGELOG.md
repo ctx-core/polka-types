@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 2.2.7
+
+### Patch Changes
+
+- fix: deploying \*.js files
+
 ## 2.2.6
 
 ### Patch Changes
