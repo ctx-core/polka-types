@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 2.2.8
+
+### Patch Changes
+
+- typescript: ^4.3.4 -> ^4.3.5
+
 ## 2.2.7
 
 ### Patch Changes
