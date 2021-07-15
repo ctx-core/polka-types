@@ -16,6 +16,7 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
+	"type": "module",
 	"types": "./dist/index.d.ts",
 	"scripts": {
 		"build": ":",
