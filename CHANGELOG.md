@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 3.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 2.2.8
 
 ### Patch Changes
