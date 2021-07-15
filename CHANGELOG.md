@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 3.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+
 ## 3.0.1
 
 ### Patch Changes

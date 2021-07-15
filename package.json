@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polka-types",
-	"version": "3.0.1",
+	"version": "3.0.2",
 	"description": "ctx-core polka types",
 	"keywords": [
 		"ctx-core",
@@ -16,6 +16,7 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
+	"type": "module",
 	"types": "./dist/index.d.ts",
 	"scripts": {
 		"build": ":",
