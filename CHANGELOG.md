@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 3.0.6
+
+### Patch Changes
+
+- fix: "exports": "./package.json": "./package.json"
+
 ## 3.0.5
 
 ### Patch Changes
