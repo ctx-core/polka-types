@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 3.0.10
+
+### Patch Changes
+
+- compile using swc
+
 ## 3.0.9
 
 ### Patch Changes

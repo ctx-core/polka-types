@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polka-types",
-	"version": "3.0.9",
+	"version": "3.0.10",
 	"description": "ctx-core polka types",
 	"keywords": [
 		"ctx-core",
@@ -16,7 +16,7 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
-	"types": "./dist/index.d.ts",
+	"types": "./src/index.ts",
 	"exports": {
 		".": {
 			"require": "./dist/index.cjs",
@@ -29,7 +29,6 @@
 		"exec": "$@"
 	},
 	"dependencies": {
-		"esm": "^3.2.25",
 		"trouter": "^3.2.0"
 	},
 	"devDependencies": {
