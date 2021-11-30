@@ -32,7 +32,7 @@
 		"trouter": "^3.2.0"
 	},
 	"devDependencies": {
-		"typescript": "^4.5.2"
+		"typescript": "next"
 	},
 	"publishConfig": {
 		"access": "public",
