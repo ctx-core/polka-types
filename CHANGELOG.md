@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 3.0.14
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 3.0.13
 
 ### Patch Changes
