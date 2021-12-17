@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 3.0.17
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+
 ## 3.0.16
 
 ### Patch Changes
