@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 3.0.16
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 3.0.15
 
 ### Patch Changes
