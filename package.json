@@ -16,10 +16,10 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
-	"types": "./dist/index.d.ts",
+	"types": "./lib/index.d.ts",
 	"exports": {
 		".": {
-			"import": "./dist/index.js"
+			"import": "./lib/index.js"
 		},
 		"./package.json": "./package.json"
 	},
@@ -40,5 +40,5 @@
 		"cache": "~/.npm"
 	},
 	"type": "module",
-	"svelte": "./dist/index.js"
+	"svelte": "./lib/index.js"
 }
