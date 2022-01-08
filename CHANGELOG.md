@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 3.0.19
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 3.0.18
 
 ### Patch Changes
