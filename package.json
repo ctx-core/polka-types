@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polka-types",
-	"version": "3.0.20",
+	"version": "3.0.21",
 	"description": "ctx-core polka types",
 	"keywords": [
 		"ctx-core",
@@ -30,7 +30,7 @@
 		"trouter": "^3.2.0"
 	},
 	"devDependencies": {
-		"rimraf": "^3.0.2",
+		"rimraf": "^4.0.1",
 		"typescript": "next"
 	},
 	"publishConfig": {
