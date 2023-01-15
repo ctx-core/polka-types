@@ -30,7 +30,7 @@
 		"trouter": "^3.2.0"
 	},
 	"devDependencies": {
-		"rimraf": "^4.0.5",
+		"rimraf": "^4.0.7",
 		"typescript": "next"
 	},
 	"publishConfig": {
