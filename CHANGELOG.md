@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 3.0.23
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 3.0.22
 
 ### Patch Changes
