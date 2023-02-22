@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 3.0.24
+
+### Patch Changes
+
+- trouter: ^3.2.0 -> ^3.2.1
+
 ## 3.0.23
 
 ### Patch Changes
