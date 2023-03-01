@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 3.0.25
+
+### Patch Changes
+
+- - rimraf
+
 ## 3.0.24
 
 ### Patch Changes
