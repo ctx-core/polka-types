@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 3.0.45
+
+### Patch Changes
+
+- version bump
+
 ## 3.0.44
 
 ### Patch Changes
