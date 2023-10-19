@@ -1,5 +1,11 @@
 # @ctx-core/polka-types
 
+## 3.0.46
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+
 ## 3.0.45
 
 ### Patch Changes
